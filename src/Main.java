@@ -1,7 +1,7 @@
 
 public class Main {
         public static void main(String[] args) {
-            // Задание 1.
+            // Task 1.
             int rubles = 6000;
             int miles = rubles / 20;
 
