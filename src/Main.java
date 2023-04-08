@@ -1,12 +1,12 @@
 
 public class Main {
-        public static void main(String[] args) {
-            // Task 1.
-            int rubles = 6000;
-            int miles = rubles / 20;
+    public static void main(String[] args) {
+        // Task 1.
+        int rubles = 6000;
+        int miles = rubles / 20;
 
-            System.out.println("Количество полученных миль за стоимость билета:");
-            System.out.println(miles);
+        System.out.println("Количество полученных миль за стоимость билета:");
+        System.out.println(miles);
 
     }
 }
